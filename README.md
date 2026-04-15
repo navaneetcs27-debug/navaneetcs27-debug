@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Hi, I'm Navaneet
 
-<!--
-**navaneetcs27-debug/navaneetcs27-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Computer Science Student  
+💻 Aspiring Software Developer & Data Science Enthusiast  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- Passionate about problem-solving and coding  
+- Strong in Data Structures & Algorithms  
+- Interested in Web Development & Machine Learning  
+- Currently building real-world projects  
+
+---
+
+## 🛠️ Skills & Technologies
+- 💻 Languages: Java, Python, C  
+- 🌐 Web: HTML, CSS, JavaScript  
+- 🗄️ Database: MySQL  
+- 📊 Data Science: Basics of ML, Data Analysis  
+- ⚙️ Tools: Git, GitHub, VS Code  
+
+---
+
+## 📌 Projects 
+### 🔹 Smart Traffic Management System
+- Built using Python, Flask & OpenCV  
+- Focus on real-time traffic analysis  
+
+---
+
+## 📫 Connect With Me
+- 📧 Email: navaneetkumara29@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/navaneet-941a36288  
+
+---
+
+## 📊 GitHub Stats
+![Navaneet's GitHub stats](https://github-readme-stats.vercel.app/api?username=navaneetcs27-debug&show_icons=true)
+
+---
+
+⭐ *“Keep learning, keep building.”*
